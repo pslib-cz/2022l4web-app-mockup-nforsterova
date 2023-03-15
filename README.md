@@ -1,5 +1,5 @@
 # PLANTIFY
-Aplikace pro správu Vašich pokojových rostlin. Pomůže Vám v péči o ně a připomene jejich zalívání, aby Vám už žadná květina nezvadla.
+Aplikace pro správu Vašich pokojových rostlin. Pomůže Vám v péči o ně a připomene jejich zalévání, aby Vám už žadná květina nezvadla.
 ## Funkce
 * vyhledávání rostlin podle názvu
 * galerie vlastních rostlin
