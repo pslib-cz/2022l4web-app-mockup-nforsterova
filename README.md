@@ -29,4 +29,6 @@ Pokud se uživatel chce dozvědět bližší informace o některé z jeho rostli
 ### Kalendář s připomínkami
 Poslední funkcí této aplikace je kalendář s upomínkami. Do karty s ním se uživatel dostane přes výběr funkcí dole na obrazovce pod ikonou kalendáře. Tato karta obsahuje výpis o tom kdy a kterou rostlinu je potřeba zalít.
 
-![iPhone 13, 12 – 4](https://user-images.githubusercontent.com/113033502/233099506-33a88987-93e0-4c23-9e36-7699bb41cba9.jpg)
+![iPhone 13, 12 – 1](https://user-images.githubusercontent.com/113033502/233101123-5d1e7271-218e-459f-81bd-ecc6a34cdda0.png)
+![iPhone 13, 12 – 1@2x](https://user-images.githubusercontent.com/113033502/233101175-2406ffaf-4e3d-4d16-91db-4af2b4985191.png)
+
